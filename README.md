@@ -46,37 +46,37 @@ don't steal.
 ~Prefix :~
 ~✎~
 ~ˏˋ°•*⁀➷ Groovy~
-Prefix: /
-ˏˋ°•*⁀➷ Irene
-Prefix %
-✎
-ˏˋ°•*⁀➷ Mafia Bot
-Prefix m.
-✎
-ˏˋ°•*⁀➷ Mee6
-Prefix !
-✎
-ˏˋ°•*⁀➷ Miso
-Prefix >
-✎
-ˏˋ°•*⁀➷ Mudae
-Prefix $
-✎
-ˏˋ°•*⁀➷ Octave
-Prefix _
-✎
-ˏˋ°•*⁀➷ Rythm
-Prefix Minho
-✎
-ˏˋ°•*⁀➷ Trick'cord Treat
-Prefix h!
-✎
-ˏˋ°•*⁀➷ Yggdrasil
-Prefix --
-✎
-ˏˋ°•*⁀➷ Yui
-Prefix y! OR yui
-✎
+~Prefix: /~
+~ˏˋ°•*⁀➷ Irene~
+~Prefix %~
+~✎~
+~ˏˋ°•*⁀➷ Mafia Bot~
+~Prefix m.~
+~✎~
+~ˏˋ°•*⁀➷ Mee6~
+~Prefix !~
+~✎~
+~ˏˋ°•*⁀➷ Miso~
+~Prefix >~
+~✎~
+~ˏˋ°•*⁀➷ Mudae~
+~Prefix $~
+~✎~
+~ˏˋ°•*⁀➷ Octave~
+~Prefix _~
+~✎~
+~ˏˋ°•*⁀➷ Rythm~
+~Prefix Minho~
+~✎~
+~ˏˋ°•*⁀➷ Trick'cord Treat~
+~Prefix h!~
+~✎
+~ˏˋ°•*⁀➷ Yggdrasil~
+~Prefix --~
+~✎
+~ˏˋ°•*⁀➷ Yui~
+~Prefix y! OR yui~
+~✎~
 
 
 ---
