@@ -9,6 +9,7 @@ don't steal.
 BOT
 10/21/2020
 This is the server guide!
+----
 Levels
 @Level 5+ : external emotes
 @Level 10+ : can access #《💞》bump-us
@@ -39,6 +40,7 @@ Bot Info
 These are the prefixes. Use these commands in the correct bot channels.
 These are in alphabetical order. Use (prefix)help for any
 of these bot if you'd like to know more commands from the bot!
+----
 
 ~~ˏˋ°•*⁀➷ Birthday Bot
 Prefix bd!
@@ -78,7 +80,7 @@ Prefix --
 ˏˋ°•*⁀➷ Yui
 Prefix y! OR yui
 ✎
-
+----
 
 
 ---
