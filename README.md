@@ -1,9 +1,11 @@
 # discord
 all things discord; embeds, logs etc. etc.
 
+don't steal.
+
 ----
 
-E's Bot
+~~E's Bot
 BOT
 10/21/2020
 This is the server guide!
@@ -24,12 +26,13 @@ Levels
 @Level 70+ :
 @Level 75+ :
 @Level 80+ :
+----
 
 
 
 ----
 
-E's Bot
+~~E's Bot
 BOT
 10/25/2020
 Bot Info
@@ -37,7 +40,7 @@ These are the prefixes. Use these commands in the correct bot channels.
 These are in alphabetical order. Use (prefix)help for any
 of these bot if you'd like to know more commands from the bot!
 
-ˏˋ°•*⁀➷ Birthday Bot
+~~ˏˋ°•*⁀➷ Birthday Bot
 Prefix bd!
 ✎
 ˏˋ°•*⁀➷ Carl Bot
